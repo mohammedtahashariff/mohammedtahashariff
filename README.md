@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammedtahashariff
-- 👀 I’m interested in WEB dev
-- 🌱 I’m currently studying in 2nd year BE...
+- 👀 I’m interested in BLOCKCHAIN
+- 🌱 I’m currently studying in 3rd year BE...
 
 
 <!---
